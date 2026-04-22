@@ -24,8 +24,3 @@ I'm a full-stack developer passionate about building scalable, user-focused web 
 
 ### ✍️ My Quote
  " Don't Wait For Opportunity Create It "
-
----
-[![](https://komarev.com/ghpvc/?username=nitin9570&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
